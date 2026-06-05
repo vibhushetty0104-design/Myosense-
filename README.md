@@ -1,4 +1,4 @@
-💪 EMG-Based Muscle Strength & Fatigue Monitoring System
+MyoSense !!
 
 An intelligent real-time muscle monitoring system built using ESP32 and an EMG Muscle Sensor to analyze muscle activity, estimate effort levels, and detect potential fatigue.
 
